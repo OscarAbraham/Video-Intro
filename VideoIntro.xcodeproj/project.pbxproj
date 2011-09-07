@@ -23,14 +23,14 @@
 		7B1C4EEB1417E8F8007AF1A9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7B1C4EED1417E8F8007AF1A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		7B1C4EEF1417E8F8007AF1A9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		7B1C4EF31417E8F8007AF1A9 /* VideoIntro-Info.plist */ = {isa = PBXFileReference; path = "VideoIntro-Info.plist"; sourceTree = "<group>"; };
+		7B1C4EF31417E8F8007AF1A9 /* VideoIntro-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "VideoIntro-Info.plist"; sourceTree = "<group>"; };
 		7B1C4EF51417E8F8007AF1A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		7B1C4EF71417E8F8007AF1A9 /* VideoIntro-Prefix.pch */ = {isa = PBXFileReference; path = "VideoIntro-Prefix.pch"; sourceTree = "<group>"; };
+		7B1C4EF71417E8F8007AF1A9 /* VideoIntro-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "VideoIntro-Prefix.pch"; sourceTree = "<group>"; };
 		7B1C4EF81417E8F8007AF1A9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		7B1C4EFA1417E8F8007AF1A9 /* VideoIntroAppDelegate.h */ = {isa = PBXFileReference; path = VideoIntroAppDelegate.h; sourceTree = "<group>"; };
+		7B1C4EFA1417E8F8007AF1A9 /* VideoIntroAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VideoIntroAppDelegate.h; sourceTree = "<group>"; };
 		7B1C4EFB1417E8F8007AF1A9 /* VideoIntroAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VideoIntroAppDelegate.m; sourceTree = "<group>"; };
 		7B1C4EFE1417E8F8007AF1A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		7B1C4F001417E8F8007AF1A9 /* VideoIntroViewController.h */ = {isa = PBXFileReference; path = VideoIntroViewController.h; sourceTree = "<group>"; };
+		7B1C4F001417E8F8007AF1A9 /* VideoIntroViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = VideoIntroViewController.h; sourceTree = "<group>"; };
 		7B1C4F011417E8F8007AF1A9 /* VideoIntroViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = VideoIntroViewController.m; sourceTree = "<group>"; };
 		7B1C4F041417E8F8007AF1A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/VideoIntroViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
